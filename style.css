@@ -4,14 +4,21 @@
     font-size: 48px;
 }
 
-.link {
-    font-size: 36px;
-    text-align: center;
-}
- .chika {
+
+ .img {
     width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+ }
+
+ div.container {
+     text-align: center;
+     font-size: large;
+ }
+
+ ul,ol {
+     display: inline-block;
+     text-align: left;
  }
