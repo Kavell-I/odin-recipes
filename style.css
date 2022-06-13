@@ -1,10 +1,17 @@
 #recipes {
     color: rgb(92, 79, 48);
     text-align: center;
-    font-size: 36px;
+    font-size: 48px;
 }
 
 .link {
-    font-size: 24px;
-
+    font-size: 36px;
+    text-align: center;
 }
+ .chika {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
